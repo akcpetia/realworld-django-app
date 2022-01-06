@@ -1,7 +1,5 @@
 # ![Django DRF Example App](project-logo.png)
 
-> ### Example Django DRF codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) API spec.
-
 This repo is functionality complete — PR's and issues welcome!
 
 ## Installation
